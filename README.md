@@ -1,4 +1,6 @@
 # ResumeRevealer: Advanced Resume Parsing for MINeD 2024
+# Team Unstable Diffusers
+### Team Members: Pranshav Patel, Dhruv Thakkar, Kavya Patel, Hetul Shah, Prachita Patel
 
 ## Overview
 ResumeRevealer is developed for the MINeD 2024 Hackathon, targeting the "PeopleMetrics: Shaping the Next-Gen Workforce" track sponsored by Revelio Labs. This project focuses on the "ResumeRevealer" challenge, aiming to advance resume parsing technology. ResumeRevealer is capable of extracting detailed information from resumes in various formats, classifying text into distinct sections, and sequencing them by dates. It also standardizes job titles against the O-NET database and implements advanced skill extraction.
