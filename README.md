@@ -29,6 +29,7 @@ A Jupyter Notebook (`resume_parser.ipynb`) is included to demonstrate the capabi
 
 ## Dataset
 An initial dataset of 25-30 resumes across various formats and professions is provided for development and testing. We used a pre-built resume dataset which had `named-entity-recognition` annotations for 200 resumes and used them to fine-tune our `named-entity-recognition` model using spaCy.
+Since we couldn't add all the files on github because of it's restructions, we've provided the dataset files and pre-trained models at this [link](https://drive.google.com/drive/folders/1pdWNh0hcv6z_q8MG04dK4InaJHyC5ZFu?usp=sharing).
 
 ## Submission Requirements
 For the MINeD 2024 Hackathon, submissions must include:
