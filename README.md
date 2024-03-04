@@ -7,13 +7,13 @@ ResumeRevealer is developed for the MINeD 2024 Hackathon, targeting the "PeopleM
 
 ## Features
 - **Comprehensive Resume Parsing**: Handles multiple file formats including PDF, JPG, HTML, DOC, etc., accurately classifying and sequencing resume sections.
-- **Job Title Standardization**: Utilizes the O-NET database to ensure consistency in job title taxonomy across resumes.
+- **Job Title Standardization**: Utilizes the O*NET database to ensure consistency in job title taxonomy across resumes.
 - **Named Entity Recognition**: Helps in extracting the necessary entities. Designation, Skills and Company name as our entities
 - **Advanced Skill Extraction**: Mines detailed skills and competencies from the resume, highlighting specific abilities and expertise. Includes abstractive skill extraction as a bonus feature.
 
 ## Installation
 1. Clone the repository:
-`git clone <repository-url>`
+`git clone https://github.com/pranshavpatel/MINeD-hackathon.git`
 2. Navigate to the project directory:
 `cd MINeD-hackathon`
 3. Install the required dependencies:
